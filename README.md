@@ -10,13 +10,13 @@ Imagine you are the Treasurer of a mid-sized tech company (like Roku or Etsy) si
 
 **The Gap:** Credit ratings (like "AA-") are slow to react. Stock price is too volatile. You need a structural view of safety.
 
-**How Your "Resilience" Analysis Solves It:** Your analysis provides a "Survival Scorecard."
+**How The "Resilience" Analysis Solves It:** The analysis provides a "Survival Scorecard."
 
 - **Quantifiable Safety:** Instead of guessing, you can say: "Bank A burns 40% of its equity in a crash, leaving it with only 1% wiggle room. Bank B only burns 10% and stays fully capitalized."
 
 - **Counterparty Risk Limit:** You can use your "Stress Delta" to set limits. "We will only deposit funds in banks that maintain a >2% buffer after a theoretical crash."
 
-- **The "Flight to Quality" Map:** Your scatter plot literally maps where you should move your money. You move funds from the bottom-right (High Risk) to the top-left (Fortress).
+- **The "Flight to Quality" Map:** The scatter plot literally maps where you should move your money. You move funds from the bottom-right (High Risk) to the top-left (Fortress).
 
 ## How to Run
 
